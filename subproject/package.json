@@ -1,0 +1,11 @@
+{
+  "name": "subproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"this is from the subproject\"",
+  },
+  "author": "",
+  "license": "ISC"
+}
